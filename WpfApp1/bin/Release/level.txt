@@ -1,0 +1,3 @@
+Easy-240
+Normal-180
+Hard-120
